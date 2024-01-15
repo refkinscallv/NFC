@@ -1,4 +1,4 @@
-# NFC - Null Form Checker fo JavaScript
+# NFC - Null Form Checker for JavaScript
 
 NFC (Null Form Checker) is a JavaScript script designed to simplify the validation of null values in HTML forms, particularly those implemented with AJAX/jQuery. This script aids in ensuring that user-filled forms do not contain null values in their form elements when submitted asynchronously.
 
@@ -94,7 +94,7 @@ or
     <title>NFC - Null Form Checker</title>
 
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
-    
+
     <script src="https://cdn.jsdelivr.net/gh/refkinscallv/NFC@master/nfc.js"></script>
 </head>
 <body>
