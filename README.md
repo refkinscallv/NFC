@@ -5,7 +5,13 @@ NFC (Null Form Checker) is a JavaScript script designed to simplify the validati
 ## Installation
 
 ```html
-<script src=""></script>
+<script src="https://cdn.jsdelivr.net/gh/refkinscallv/NFC@master/nfc.js"></script>
+```
+
+or 
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/refkinscallv/NFC@version/nfc.js"></script>
 ```
 
 ## Usage Example
@@ -19,7 +25,7 @@ NFC (Null Form Checker) is a JavaScript script designed to simplify the validati
     
     <title>NFC - Null Form Checker</title>
 
-    <script src="nfc.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/refkinscallv/NFC@master/nfc.js"></script>
 </head>
 <body>
     
@@ -87,9 +93,9 @@ NFC (Null Form Checker) is a JavaScript script designed to simplify the validati
     
     <title>NFC - Null Form Checker</title>
 
-    <script src="nfc.js"></script>
-
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    
+    <script src="https://cdn.jsdelivr.net/gh/refkinscallv/NFC@master/nfc.js"></script>
 </head>
 <body>
     
